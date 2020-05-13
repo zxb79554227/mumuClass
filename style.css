@@ -1,4 +1,12 @@
 .page {
+    min-height: 380px;
     height: 100vh;
     min-width: 720px;
+}
+
+#mxm {
+    display: block;
+    font-size: 23px;
+    color: red;
+    font-style: italic;
 }
