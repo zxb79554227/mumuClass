@@ -11,7 +11,7 @@
     "animate.css": "^4.1.0",
     "clipboard": "^2.0.4",
     "core-js": "^3.6.4",
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "element-ui": "^2.13.1",
     "es6-promise": "^4.2.8",
     "lodash": "^4.17.15",
